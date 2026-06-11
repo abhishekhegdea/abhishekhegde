@@ -9,9 +9,8 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/abhishekghegde">
+  <a href="https://www.linkedin.com/in/Abhishek Hegde/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
- 
   </a>
 </p>
 
