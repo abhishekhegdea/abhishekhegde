@@ -24,12 +24,12 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 - 🎓 AIML Student
 - 💻 Full Stack Developer
 - 🤖 Interested in AI, ML, RAG & Cloud Computing
-- 🌱 Currently learning AWS & Advanced AI
+- 🌱 Currently learning Advanced AI
 - 🚀 Building Real-world Applications
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tools
 
 <p align="center">
 
@@ -43,9 +43,9 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekhegdea&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhegdea&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -55,7 +55,7 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abhishekhegdea&theme=tokyonight"/>
 
 </p>
 
@@ -65,7 +65,7 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekhegdea&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -75,7 +75,7 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekhegdea&theme=tokyo-night"/>
 
 </p>
 
