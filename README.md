@@ -12,7 +12,7 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
   <a href="www.linkedin.com/in/abhishekghegde">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:abhishekhegdwa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -46,36 +46,6 @@ AI & Machine Learning Student | Full Stack Developer | Problem Solver
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekhegdea&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhegdea&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhishekhegdea&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekhegdea&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekhegdea&theme=tokyo-night"/>
 
 </p>
 
