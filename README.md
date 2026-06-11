@@ -1,4 +1,3 @@
-# abhishekhegde
 <h1 align="center">Hi 👋, I'm Abhishek Hegde</h1>
 <h3 align="center">AI & Machine Learning Student | Full Stack Developer | Problem Solver</h3>
 
