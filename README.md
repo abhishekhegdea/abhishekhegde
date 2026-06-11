@@ -17,8 +17,10 @@
 - Handwritten Digit Classification
 
 📫 Reach me:
-- LinkedIn: Your LinkedIn URL
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/
+abhishekghegde
+
+- Email: abhishekhegdea@gmail.com
 
 ⚡ Fun Fact:
 I love solving coding challenges and building AI-powered applications.
