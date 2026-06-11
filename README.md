@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Abhishek%20Hegde&fontSize=50&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhishek Hegde</h1>
 
 <h3 align="center">
