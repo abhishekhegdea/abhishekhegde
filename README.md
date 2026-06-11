@@ -17,9 +17,7 @@
 - Handwritten Digit Classification
 
 📫 Reach me:
-- LinkedIn: www.linkedin.com/in/
-abhishekghegde
-
+- LinkedIn: www.linkedin.com/in/abhishekghegde
 - Email: abhishekhegdea@gmail.com
 
 ⚡ Fun Fact:
